@@ -89,12 +89,12 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
+          "slug": "002",
           "name": "Bug-Hunt",
           "status": "start"
         },
@@ -142,13 +142,13 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
+        "planet": "Umara",
+        "year": "5016u",
+        "system": "Umara",
+        "gate": "Rocky-Greenhorn",
+        "ring": "Rocky-Line",
+        "headerTitle": "Unnamed Company",
+        "headerSubtitle": "Free Company",
         "subheaderTitle": "Crisis Response",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
